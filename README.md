@@ -30,5 +30,5 @@ The dataset used in this analysis is named `mxmh_survey_results.csv` and include
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/OpheliaArrindell/Music_Mental_Health
 
